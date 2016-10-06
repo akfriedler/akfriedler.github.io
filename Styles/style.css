@@ -1,0 +1,73 @@
+#cyberbody {
+  font-family: 'Arial', arial, sans-serif;
+  font-weight: 300;
+  color: black;
+  background-image: url("../images/ocean.png");
+  background-repeat: repeat;
+}
+
+#indexbody {
+  font-family: 'Alfa Slab One';
+  color: black;
+}
+
+#wrapper {
+  max-width: 960px;
+  margin: 5px 30px 0;
+}
+
+.jumbotron {
+  min-height: 500px;
+  background-image: url(../images/security.jpg);
+  background-color: yellow;
+  background-blend-mode: screen;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  font-stretch: semi-expanded;
+  font-size: 10px;
+  background-blend-mode: hue;
+}
+
+.btn {
+  background-color: white;
+  color: blue;
+  height: 50px;
+  font-family: Georgia, cursive;
+  font-size: 25px;
+  margin-right: 50px;
+}
+
+.navbar-brand {
+  padding-top: 5px;
+}
+
+
+#mypic {
+  height: 150px;
+}
+
+#navpic {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+#resume {
+  max-width: 100%;
+  height: auto;
+}
+
+/*#resume img{
+  width: 33%;
+  max-width: 600px;
+}*/
+
+/* h5 {
+  color: yellow;
+  font-size: 18px;
+}
+h4 {
+  font-size: 24px;
+}
+*/
