@@ -21,6 +21,7 @@
   background-image: url(../images/security.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-blend-mode: darken;
   color: black;
   font-stretch: semi-expanded;
   font-size: 10px;
