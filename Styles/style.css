@@ -19,14 +19,11 @@
 .jumbotron {
   min-height: 500px;
   background-image: url(../images/security.jpg);
-  background-color: yellow;
-  background-blend-mode: screen;
   background-repeat: no-repeat;
   background-size: cover;
   color: black;
   font-stretch: semi-expanded;
   font-size: 10px;
-  background-blend-mode: hue;
 }
 
 .btn {
