@@ -3,7 +3,7 @@
   font-weight: 300;
   color: black;
   background-image: url("../images/cyberback.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-size: cover;
   padding-bottom: 15px;
 }
@@ -36,8 +36,8 @@
   padding-top: 5px;
 }
 
-.thumbpic {
-  max-width: 20px;
+.thumbnail {
+  min-height: 400px;
 }
 
 h3.caption {
@@ -69,4 +69,5 @@ h4 {
 #resume {
   max-width: 100%;
   height: auto;
+  padding-bottom: 15px;
 }
